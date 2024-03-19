@@ -20,10 +20,10 @@
   <a><img  src='https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white'/> </a>
    <a><img  src='https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white'/> </a>
   <a><img  src='https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white'/> </a>
-  <a><img  src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/> </a>
+  <a><img  src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=8C4FFF'/> </a>
     <a><img  src='https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white'/> </a>
-   <a><img  src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'/> </a>
-   <a><img  src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white'/> </a>
+   <a><img  src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&labelColor=A5915F'/> </a>
+   <a><img  src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&labelColor=2D8C3C'/> </a>
  
 </p>
 
