@@ -5,7 +5,7 @@
     <img alt='linkedin' title='Linkedin Profile' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
     <a href='https://github.com/IvonaIva00'>
-    <img alt='github' title='Follow' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&labelColor=#8C4FFF'/>
+    <img alt='github' title='Follow' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&labelColor=8C4FFF'/>
   </a>
 </p>
 
