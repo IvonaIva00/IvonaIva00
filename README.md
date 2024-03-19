@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<h1> 👋 Hello my name is Ivona</h1>
+<p allign=center>
+  <a href='https://www.linkedin.com/in/ivona-iv/'>
+    <img alt='linkedin' title='Linkedin Profile' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+</p>
 
 <!--
 **IvonaIva00/IvonaIva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
